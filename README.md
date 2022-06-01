@@ -9,7 +9,7 @@ ___
     - Computer science  
     
   Actually I achieved to scrap data from online glossaries thanks to Power BI.  
-  For these 3 main fields I retrieved labels and descriptions terms their proper pandas Dataframe to finally concatenate them.  
+  For these 3 main fields I retrieved their proper labels and descriptions terms into pandas Dataframe, to finally concatenate them.  
   Necessarily this method induces significant bias because there are many ways to define terms, there must be majors likeness though.  
   
 - Estimate sentence similarity  
