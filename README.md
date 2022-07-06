@@ -20,7 +20,7 @@ ___
 
 - Data visualisation  
   Since networkx is limited to display wide network interactively I also used Gephi tools.  
-  Both tools detect 3 main clusters which logically are the same as original ones.  
+  Both tools detect 3 main clusters which logically are the same as original ones (orange cluster mostly include AI glossary terms, when purple and green respectively correspond to Computer Science and Statistics terms)
   Clusters are identified through the same method based on the [modularity](https://en.wikipedia.org/wiki/Louvain_method#Modularity_optimization).  
 
 
